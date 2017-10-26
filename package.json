@@ -1,0 +1,19 @@
+{
+  "name": "pointme",
+  "version": "1.0.0",
+  "description": "Points the user in the direction of greatest interest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theianchan.github.com/pointme.git"
+  },
+  "author": "@theianchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theianchan.github.com/pointme/issues"
+  },
+  "homepage": "https://github.com/theianchan.github.com/pointme#readme"
+}
