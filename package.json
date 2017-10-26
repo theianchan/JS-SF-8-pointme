@@ -2,7 +2,7 @@
   "name": "pointme",
   "version": "1.0.0",
   "description": "Points the user in the direction of greatest interest",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/theianchan.github.com/pointme/issues"
   },
-  "homepage": "https://github.com/theianchan.github.com/pointme#readme"
+  "homepage": "https://github.com/theianchan.github.com/pointme#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
 }
